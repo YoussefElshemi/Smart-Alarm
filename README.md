@@ -53,6 +53,6 @@ To test the program, run `python -m pytest` in the console, please ensure that t
 To test the syntax/linting, please run `python ./tests/linter.py`, this will check all of the files to ensure they the pep8 style and also correct syntax.
 
 ## Author
-Name: Youssef Elshemi
-Licence: [MIT](https://github.com/YoussefExeter/Smart-Alarm/blob/main/licence.md)
+Name: Youssef Elshemi  
+Licence: [MIT](https://github.com/YoussefExeter/Smart-Alarm/blob/main/licence.md)  
 Github: [here](https://github.com/YoussefExeter/Smart-Alarm)
