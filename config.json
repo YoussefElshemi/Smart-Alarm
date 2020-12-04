@@ -1,0 +1,11 @@
+{
+  "news_api_key": "",
+  "weather_api_key": "",
+  "title": "Youssef's alarm",
+  "city": "exeter",
+  "news_keywords": ["covid", "corona"],
+  "news_sources": ["bbc news"],
+  "covid_infected_threshold": 1000,
+  "covid_death_threshold": 500,
+  "port": 5000
+}
